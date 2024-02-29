@@ -1,0 +1,13 @@
+{
+  "name" : "Joe Doe",
+  "username": "Joe",
+  "email" : "joe.doe@exmaple.com",
+  "address": {
+    "street": "Cuzco",
+    "suite": "Apt. 123",
+    "city": "Lima",
+    "zipcode": "15069"
+  },
+  "phone": "123456789",
+  "website": "google.com"
+}

@@ -1,0 +1,12 @@
+# encoding: utf-8
+es:
+  faker:
+    data:
+      dni:
+        - "88888871"
+        - "70000005"
+      documento: 
+        - DNI
+      genero: 
+        - Femenino
+        - Masculino

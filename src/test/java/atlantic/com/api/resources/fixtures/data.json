@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Joe Doe",
+    "Username": "Joe",
+    "Email": "joe.doe@example.com",
+    "Street": "Cuzco 123",
+    "City": "Lima",
+    "Zipcode": "15069",
+    "Phone": "123456789"
+  },
+  {
+    "Name": "Carlos Rodriguez",
+    "Username": "Carlos",
+    "Email": "carlos.rdg@example.com",
+    "Street": "Arequipa 122",
+    "City": "Lima",
+    "Zipcode": "13045",
+    "Phone": "987654321"
+  }
+]
